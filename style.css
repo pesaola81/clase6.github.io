@@ -1,0 +1,106 @@
+.dia1,.dia2,.dia3{
+    color: rgb(235, 30, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.dia4,.dia5{
+    color: rgb(245, 9, 60);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.dia6{
+    color: rgb(133, 26, 31);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+.hs1{
+    color: rgb(235, 30, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.hs2{
+    color: rgb(245, 9, 60);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.hs3{
+    color: rgb(133, 26, 31);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.libros{
+    background-color: palevioletred;
+    width: 100%;
+    height: 50%;
+      
+ }
+
+.datos{
+    background-color: green;
+    width: 100%;
+    height: 40%;
+}
+div{
+border-width: 300px;color: rgb(63, 11, 112);
+background: "contacto.html";
+border-color: rgb(20, 7, 32);
+text-align: center;
+margin: 50px;
+border-style: groove;
+}
+
+
+.lista{
+    display: flex;
+    
+}
+.lista1{
+    flex-direction: row-reverse;
+    margin: 20px;
+    
+}
+.lista2{
+    flex-direction: row-reverse;
+    margin: 20px;
+    
+}
+.lista3{
+    flex-direction: row-reverse;
+    margin: 20px;
+    
+}
+.lista4{
+    flex-direction: row-reverse;
+    margin: 20px;
+}
+.datos{
+    background-color: rgb(205, 132, 219);
+    margin: 0px;
+    padding: 0px;
+}
+
+.romanticos{
+    float: left;
+    margin-right: 30px;
+}
+.fantasia{
+    float: left;
+    margin-right: 30px;
+}
+
+.terror{
+    float: left;
+    margin-right: 30px;
+}
+.generos{
+    float: left;
+    margin-right: 30px;
+}
+.libreria{
+    float: right;
+    margin-right: 300px;
+    margin-left: 100px;
+   position: relative; 
+   bottom: 200px;
+}
+
